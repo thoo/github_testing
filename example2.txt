@@ -9,6 +9,7 @@ Master update.
 ***************************************************************************************************************************************************************************
 
 TThis is another master update. This is another master update. This is another master update. his is another master update.
+<<<<<<< HEAD
 This is the update from branch.
 This is from the branch.
 This is from the branch.
@@ -17,3 +18,9 @@ This is a branch update.
 This is a branch update.This is a branch update.This is a branch update.
 ====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 Th is branch update for merge.
+=======
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+This is master to merge.
+>>>>>>> master
